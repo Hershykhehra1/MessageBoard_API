@@ -27,12 +27,10 @@ The project is divided into several components:
 
 #### **Templates**
 - **main.ftlh**: FreeMarker template for rendering the login and registration forms along with the message display sections.
-  - **Head Section**: Links to Bootstrap and JavaScript files.
-  - **Body Section**: Contains the login form, registration form, message display, and forms for adding/editing messages.
+  - Contains the login form, registration form, message display, and forms for adding/editing messages.
 
 - **mainMessage.ftlh**: FreeMarker template for rendering the message board view.
-  - **Head Section**: Links to Bootstrap and JavaScript files.
-  - **Body Section**: Displays a personalized welcome message, message table, and forms for adding/editing messages.
+  - Displays a personalized welcome message, message table, and forms for adding/editing messages.
 
 ### How It Works
 
