@@ -43,8 +43,3 @@ The project is divided into several components:
 
 1. Make sure you have Java, Maven, and Spring installed in your IDE.
 2. Run the Spring Boot app and navigate to `http://localhost:8080/` to interact with the application.
-
-
----
-
-Feel free to modify or expand on this structure to better suit your project needs!
