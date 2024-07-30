@@ -18,7 +18,6 @@ The project is divided into several components:
 
 #### **JavaScript**
 - **main.js**: Contains functionality for user interactions and API communication.
-  - **Initialization**: Sets up initial views and event listeners.
   - **Event Listeners**: Handles button clicks for login, registration, and message management.
   - **Form Handling**: Manages login, registration, message addition, and editing forms.
   - **UI Management**: Functions to show or hide different parts of the UI.
