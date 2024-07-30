@@ -1,7 +1,3 @@
-Certainly! Here's the project structure for your web application, formatted similarly to the sample you provided:
-
----
-
 ### Project Structure
 
 The project is divided into several components:
